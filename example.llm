@@ -1,0 +1,9 @@
+{
+    "name": "EDIT NAME",
+    "description": "EDIT DESCRIPTION", 
+    "privacy": "1",
+    "knowledge": [
+      "Example 1", 
+      "Example 2"
+    ]
+}
