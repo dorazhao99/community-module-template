@@ -1,0 +1,7 @@
+{
+  "name": "EDIT", 
+  "description": "EDIT", 
+  "moduleDependencies": {
+    "moduleName": "branch"
+  }
+}
