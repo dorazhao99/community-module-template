@@ -1,6 +1,8 @@
-# Module Name
-> Description
+# Title (Must Be Included)
+## Details 
+|  Key | Value|
+| ------------- | ------------- |
+| Description | (Optional) Description of the module |
+| Slug | (Optional) Shortened name for your module |
 
-- Statement 1
-- Statement 2
-- ...
+Include information in Markdown formatting. 
