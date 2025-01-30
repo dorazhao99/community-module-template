@@ -18,5 +18,6 @@ If you want to share your extension with the community, you can click the checkb
 We provide below a list of sample modules that are popular. You can also browse the [Explore Page](https://knollapp.com/explore) for inspiration. 
 - My Email Style:
 - My Team's Policies:
+- Documentation Guide: 
 - Travel Itinerary Planning:
 
