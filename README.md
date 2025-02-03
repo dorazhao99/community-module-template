@@ -10,9 +10,7 @@ See `example.md` as an example for how the file must be formatted.
 Modules can either be public (i.e., seen and used by anyone who has the link to your Github Markdown file) or private (i.e., seen and used only by you and selected collaborators). To create a private module, set the Github repository that your Markdown file is located in to be **private**. 
 
 ## Adding a Module to Knoll
-To add a module to your Knoll extension, click the + button on the upper left corner of the browser extension. Then, you can input the URL to the `.md` file that you have created. 
-
-If you want to share your extension with the community, you can click the checkbox that says "I want to share this module with the Knoll community." Once the module has been approved, it will be featured on the Explore page for other users. 
+To add a module to your Knoll extension, navigate to the [Create Page](https://knollapp.com/create). Then, you can input the title of your module and the URL to the `.md` file that you have created. 
 
 ## Example Modules 
 We provide below a list of sample modules that are popular. You can also browse the [Explore Page](https://knollapp.com/explore) for inspiration. 
